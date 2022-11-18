@@ -18,3 +18,4 @@ alias pflush="rm -rf env"
 
 # Other Alias
 alias lx="ls -la"
+alias cls="clear"
